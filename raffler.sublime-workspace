@@ -1,0 +1,773 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"params"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 346,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/home.js",
+			"settings":
+			{
+				"buffer_size": 932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/home.scss",
+			"settings":
+			{
+				"buffer_size": 622,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/seeds.rb",
+			"settings":
+			{
+				"buffer_size": 1686,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/application_controller.rb",
+			"settings":
+			{
+				"buffer_size": 206,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"AngularJS: Toggle - Disable Built-in Directive Completions"
+			],
+			[
+				"rails",
+				"Simple Rails Navigator: List controllers"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/onlife/projects/raffler/db/migrate/20150406132321_create_users.rb",
+		"/home/onlife/projects/raffler/app/assets/javascripts/application.js",
+		"/home/onlife/projects/raffler/config/initializers/assets.rb",
+		"/home/onlife/projects/raffler/config/boot.rb",
+		"/home/onlife/Documents/sprint2-tasks.txt",
+		"/home/onlife/projects/raffler/app/views/layouts/application.html.erb",
+		"/home/onlife/projects/raffler/app/assets/stylesheets/home.scss",
+		"/home/onlife/projects/raffler/Gemfile",
+		"/home/onlife/projects/raffler/config/environments/production.rb",
+		"/home/onlife/projects/raffler/config/routes.rb",
+		"/home/onlife/projects/raffler/config/database.yml",
+		"/run/user/1000/gvfs/archive:host=file%253A%252F%252F%252Fhome%252Fonlife%252FDocuments%252FArchive.zip/mobile.html",
+		"/home/onlife/projects/liveon/lib/tasks/deployment/20150325154223_update_config_with_mobile_signup_text_changed.rake",
+		"/home/onlife/projects/liveon/lib/tasks/deployment/20150326092445_update_portal_new_handshake_confirmation_heading.rake",
+		"/home/onlife/projects/liveon/lib/tasks/deployment/20150330081043_update_portal_new_handshake_confirmation_heading_and_message.rake",
+		"/home/onlife/.config/sublime-text-2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/home/onlife/projects/liveon/app/helpers/user_agent_helper.rb",
+		"/home/onlife/projects/liveon/app/assets/javascripts/templates/handshake/new.html",
+		"/home/onlife/projects/liveon/config/application.rb",
+		"/home/onlife/projects/liveon/app/controllers/api/sso_handshakes_controller.rb",
+		"/home/onlife/projects/liveon/app/views/home/index.html.erb",
+		"/home/onlife/projects/liveon/app/assets/javascripts/shared_angular/services/translations.js",
+		"/home/onlife/projects/liveon/app/assets/javascripts/sso_handshake/app.js",
+		"/home/onlife/projects/liveon/app/assets/javascripts/sso_handshake/controllers.js",
+		"/home/onlife/projects/liveon/app/models/group_config_parser.rb",
+		"/home/onlife/projects/liveon/config/services.yml",
+		"/home/onlife/projects/liveon/app/controllers/group_config_controller.rb",
+		"/home/onlife/projects/liveon/app/assets/javascripts/sso_handshake/services.js",
+		"/home/onlife/projects/liveon/config/routes.rb",
+		"/home/onlife/projects/liveon/log/development.log",
+		"/home/onlife/projects/liveon/config/deploy/production.rb",
+		"/home/onlife/projects/liveon/app/views/lps/orders/_place_new_order.html.erb",
+		"/home/onlife/Documents/html/mobile.html",
+		"/home/onlife/projects/liveon/lib/tasks/deployment/20150330154123_update_portal_new_handshake_confirmation_heading_and_message.rake",
+		"/home/onlife/projects/liveon/config/locales/en.yml",
+		"/home/onlife/projects/liveon/config/locales/es.yml",
+		"/home/onlife/projects/liveon/lib/tasks/deployment/20141113213521_add_mobile_confirm_markup_to_config.rake",
+		"/home/onlife/projects/liveon/README.md",
+		"/home/onlife/Desktop/task steps",
+		"/home/onlife/projects/liveon/app/assets/javascripts/shared_angular/directives/modal.js",
+		"/home/onlife/projects/liveon/app/assets/javascripts/shared_angular/directives/filter_input.js",
+		"/home/onlife/projects/liveon/.rake_tasks~",
+		"/home/onlife/projects/liveon/liveon.sublime-workspace",
+		"/home/onlife/projects/assessment_service/Environment Details.xlsx",
+		"/home/onlife/projects/assessment_service/config/boot.rb",
+		"/home/onlife/projects/assessment_service/script/mongo_integration_to_local/update_assessments.sh",
+		"/home/onlife/projects/assessment_service/.gitignore",
+		"/home/onlife/projects/assessment_service/assessment_service.sublime-workspace",
+		"/home/onlife/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/onlife/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/onlife/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/onlife/projects/liveon",
+			"/home/onlife/projects/assessment_service",
+			"/home/onlife/projects/liveon"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"User.find(params[:id])",
+			"json",
+			"user_params",
+			" ",
+			"\n",
+			"entry",
+			"Entry",
+			"myapp",
+			"scope.lastWinner = user",
+			"entries",
+			"entry",
+			"gray",
+			"winner",
+			"highlight",
+			"\n	",
+			"winner",
+			"items",
+			"drawWinner",
+			"newUser",
+			"margin",
+			"\n		",
+			"application",
+			"\n		",
+			"HelloController",
+			"RaffleCtrl",
+			"angular",
+			"\n		",
+			"name:",
+			"postgres",
+			"username",
+			"steps",
+			"$background-image",
+			"portal_new_handshake_confirmation_heading",
+			"Launch Application",
+			"™",
+			"./img",
+			".<br><br></li><li>",
+			".  ",
+			"<li>  ",
+			"is_mobile_chrome?",
+			"PLACE A NEW ORDER",
+			"<%= I18n.t('mobile.sso_handshake.portal_access_instruction')",
+			"We are going mobile",
+			"\n        ",
+			"portal_new_handshake_confirmation_heading",
+			"parse_config_values",
+			"members",
+			"SettingDefinition",
+			"\n                 ",
+			"After",
+			"portal_access_instruction",
+			"Lunch Application",
+			"In a few moments you will receive a text message with a link",
+			"In a few moments you will receive a text message with a link. Touch the link for access to the AlwaysOn Wellness™ app in the App Store. (The link will expire in 24 hours!)",
+			"*********************************************************************************\n",
+			"digest",
+			"-",
+			"loadAssessmentPage",
+			"Date can",
+			":weight",
+			"weight",
+			"+",
+			"mongoexport --host int-linbe01.olh.local --db assessment_service --collection assessments --out assessments2.json",
+			"capistrano",
+			"linux",
+			"alt",
+			"shft",
+			"super",
+			"toggle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/javascripts/home.js",
+					"settings":
+					{
+						"buffer_size": 932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/users_controller.rb",
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/home/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ERB Autocomplete/erb.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/stylesheets/home.scss",
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/javascripts/application.js",
+					"settings":
+					{
+						"buffer_size": 632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "db/seeds.rb",
+					"settings":
+					{
+						"buffer_size": 1686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1686,
+								1686
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 119.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1135,
+								1135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/controllers/application_controller.rb",
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 417.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"config/initializers/assets.rb",
+				"config/initializers/assets.rb"
+			],
+			[
+				"home",
+				"app/assets/javascripts/home.js.coffee"
+			],
+			[
+				"boo",
+				"config/boot.rb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applica",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"home.",
+				"app/assets/javascripts/home.coffee"
+			],
+			[
+				"ind",
+				"config/environments/production.rb"
+			],
+			[
+				"default.css",
+				"app/assets/stylesheets/themes/default.css.scss"
+			],
+			[
+				"new.html",
+				"app/assets/javascripts/templates/handshake/new.html"
+			],
+			[
+				".r",
+				".rspec"
+			],
+			[
+				"lib/tasks/deployment/20150330154123_update_portal_new_handshake_confirmation_heading_and_message.rake",
+				"lib/tasks/deployment/20150330154123_update_portal_new_handshake_confirmation_heading_and_message.rake"
+			],
+			[
+				"es.",
+				"config/locales/es.yml"
+			],
+			[
+				"groupconfigparser",
+				"app/models/group_config_parser.rb"
+			],
+			[
+				"groupconfigcontroller",
+				"app/controllers/group_config_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"develop",
+				"log/development.log"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"20150330081043_update_portal_new_handshake_confirmation_heading_and_message.rake",
+				"lib/tasks/deployment/20150330081043_update_portal_new_handshake_confirmation_heading_and_message.rake"
+			],
+			[
+				"prod",
+				"config/deploy/production.rb"
+			],
+			[
+				"appl",
+				"config/application.rb"
+			],
+			[
+				"service",
+				"config/services.yml"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"boot",
+				"config/boot.rb"
+			],
+			[
+				"script/mongo_integration_to_local/update_assessments.sh",
+				"script/mongo_integration_to_local/update_assessments.sh"
+			],
+			[
+				"update",
+				"script/mongo_integration_to_local/update_assessments.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/onlife/projects/liveon/liveon.sublime-project"
+			],
+			[
+				"li",
+				"/home/onlife/projects/liveon/liveon.sublime-project"
+			],
+			[
+				"liv",
+				"/home/onlife/projects/liveon/liveon.sublime-project"
+			],
+			[
+				"mov",
+				"/home/onlife/projects/movie_app/movie_app.sublime-project"
+			],
+			[
+				"ass",
+				"/home/onlife/projects/assessment_service/assessment_service.sublime-project"
+			],
+			[
+				"enti",
+				"/home/onlife/projects/entity_service/entity_service.sublime-project"
+			],
+			[
+				"ent",
+				"/home/onlife/projects/entity_service/entity_service.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true
+}

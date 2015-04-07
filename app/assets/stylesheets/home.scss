@@ -1,0 +1,44 @@
+#container{
+	min-height: 500px;
+	overflow: auto;
+	width: 960px;
+	margin: 30px auto;
+	border: 1px solid #DDD;
+	padding: 20px;
+	form.users{
+		width: 75%;
+		float: left;
+	}
+
+	.newUserInput{
+		width: 75%;float: left;
+	}
+	.newUserSubmit, .drawWinner{
+		width: 20%;float: left;
+	}
+	h1{
+		text-align: center;
+	}
+	ul{
+		width: 100%;
+		float: left;
+		margin: 10px auto;
+		padding: 0;
+		li:first-child{
+			border-top: 1px solid #eee;
+		}
+		li{
+			list-style-type: none;
+			border-bottom: 1px solid #eee;
+			padding: 10px 20px;
+			span.winner{
+				float: right;
+				color: gray;
+			}
+			span.highlight{
+				color: red;
+			}
+		}
+
+	}
+}

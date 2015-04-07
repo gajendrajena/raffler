@@ -1,0 +1,15 @@
+<h1>Raffler</h1>
+<div ng-controller="RaffleCtrl">
+	<form ng-submit="addUser()" class="users">
+		<input type='text' ng-model="newUser.name" class="newUserInput">
+		<button type='submit' class="newUserSubmit">Add</button>
+	</form>
+	<button type='submit' ng-click="drawWinner()" class='drawWinner'>Draw Winner</button>
+	<ul>
+		<li ng-repeat="user in users">
+			{{user.name}}
+			<span ng-show="user.winner" ng-class="{ highlight: user == lastWinner }" class="winner">WINNER</span>
+		</li>
+	</ul>
+</div>
+
